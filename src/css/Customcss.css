@@ -1,0 +1,12 @@
+.FormmStyle {
+    background-color: black;
+    color: #fff;
+}
+
+
+
+.FormmStyle input {
+    width: 300px;
+    border-radius: 10px;
+    height: 50px;
+}
